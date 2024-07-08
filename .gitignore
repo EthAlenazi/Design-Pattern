@@ -5,3 +5,7 @@
 /.vs/Design-Pattern/v17/.wsuo
 /.vs/Design-Pattern/v17/DocumentLayout.json
 *.json
+*.sqlite
+/Design Pattern/.vs/Design Pattern/FileContentIndex
+/Design Pattern/.vs
+/Design Pattern/State Design Pattern/obj
